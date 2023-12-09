@@ -1,4 +1,4 @@
-[![MasterHead](https://as1.ftcdn.net/v2/jpg/03/52/39/00/1000_F_352390061_Bem8aYkzfGhIObTC4fXhf0PmKQjWM1wN.jpg)](https://rishavchanda.io)
+[![MasterHead](https://i.ibb.co/5hDjbFg/ZQpa-Trpcfah-Cq9n1s-Epej-transformed.jpg)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm shoheb ahmed</h1>
 <h3 align="center">A passionate frontend developer from bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/media/9e5055da2ee6c899aab9403ceb7d0dc3.gif"/>
@@ -11,7 +11,8 @@
 
 - 🌱 I’m currently learning **next js,typescript**
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **
+react**
 
 - 📫 How to reach me **sashohib11@gmail.com**
 
