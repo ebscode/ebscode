@@ -11,8 +11,7 @@
 
 - 🌱 I’m currently learning **next js,typescript**
 
-- 💬 Ask me about **
-react**
+
 
 - 📫 How to reach me **sashohib11@gmail.com**
 
